@@ -1,7 +1,7 @@
 # Site settings
 title: Non Work Blog
 description: "A jekyll blog template"
-url: "http://www.jacoporabolini.com/emerald"
+url: "https://www.numericalbusiness.com"
 author:
   name: "wobsley"
   email: "wobsley1@outlook.com"
@@ -26,7 +26,7 @@ defaults:
       layout: "post"
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
 
 # Custom variables
