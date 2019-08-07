@@ -6,3 +6,4 @@ _site/
 *.un~
 *.html~
 *.yml~
+*.scss~
